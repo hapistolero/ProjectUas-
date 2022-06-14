@@ -235,6 +235,7 @@ public class UASBP2 {
             }
         } while (pilih!=5);
         System.out.println("COLABORATED");
+        System.out.println("alhamdulillah");
     }
     
 }
